@@ -7,8 +7,8 @@ This Quick Start describes the cost estimates for one of the canonical Serverles
 
 ## Estimates
 
-  * [View Estimate for High Load Scenario](https://calculator.aws/#/estimate?id=dacb9d27a432f5ee86bcffaddf94b2988a7ea470)  
-  * [View Estimate for Medium Load Scenario](https://calculator.aws/#/estimate?id=dacb9d27a432f5ee86bcffaddf94b2988a7ea470)
+  * [View Estimate for High Load Scenario](https://calculator.aws/#/estimate?id=f952ae55fe96a14619c303df101f43e4d736f473)  
+  * [View Estimate for Medium Load Scenario](https://calculator.aws/#/estimate?id=a1c42ffe7b182c3b8778efb52ead3053823db204)
   * [View Estimate for Low Load Scenario](https://calculator.aws/#/estimate?id=dacb9d27a432f5ee86bcffaddf94b2988a7ea470)
 
 ## Analysis
