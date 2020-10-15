@@ -3,7 +3,7 @@
 ## Description
 This Quick Start describes the cost estimates for a service that sends requests from Cloudfront to Lambda@Edge
 
-![alt text](https://github.com/dancfox/serverless-cost-companion/tree/main/lambda%40edge/architecture.png "Architecture")
+![alt text](https://github.com/dancfox/serverless-cost-companion/blob/main/lambda%40edge/architecture.png "Architecture")
 
 ## Estimates
 
