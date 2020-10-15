@@ -1,8 +1,5 @@
 # Kinesis Stream Processor
 
-[View Estimate for Medium Load](https://calculator.aws/#/estimate?id=e244fd8e97828ec515909ad67abe0f5f20be2eaf)
-
-
 ## Description
 This Quick Start describes the cost estimates for a service that processes a Kinesis stream.
 
@@ -10,9 +7,9 @@ This Quick Start describes the cost estimates for a service that processes a Kin
 
 ## Estimates
 
-  * High Load Scenario: 900k requests per day - [view cost estimate](https://calculator.aws/#/estimate?id=e244fd8e97828ec515909ad67abe0f5f20be2eaf))  
-  * Medium Load Scenario: 500k requests per day - [view cost estimate](https://calculator.aws/#/estimate?id=e244fd8e97828ec515909ad67abe0f5f20be2eaf))
-  * Low Load Scenario: 100k requests per day - [view cost estimate](https://calculator.aws/#/estimate?id=e244fd8e97828ec515909ad67abe0f5f20be2eaf)
+  * High Load Scenario: 900k records per day - [view cost estimate](https://calculator.aws/#/estimate?id=e244fd8e97828ec515909ad67abe0f5f20be2eaf)
+  * Medium Load Scenario: 500k records per day - [view cost estimate](https://calculator.aws/#/estimate?id=e244fd8e97828ec515909ad67abe0f5f20be2eaf)
+  * Low Load Scenario: 100k records per day - [view cost estimate](https://calculator.aws/#/estimate?id=e244fd8e97828ec515909ad67abe0f5f20be2eaf)
 
 ## Analysis
 ### Kinesis inputs
