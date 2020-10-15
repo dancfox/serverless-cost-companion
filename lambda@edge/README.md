@@ -1,11 +1,11 @@
 # Lambda@Edge
 
 ## Description
-This Quick Start describes the cost estimates for a service that sends requests from Cloudfront to Lambda@Edge
+This Quick Start describes the cost Load Scenarios for a service that sends requests from Cloudfront to Lambda@Edge
 
 ![alt text](https://github.com/dancfox/serverless-cost-companion/blob/main/lambda%40edge/architecture.png "Architecture")
 
-## Estimates
+## Load Scenarios
 
   * High Load Scenario: 900k requests per day - [view cost estimate](https://calculator.aws/#/estimate?id=3d9e8e2880884fddb7c29c85fe5d245e9ce14d25)  
   * Medium Load Scenario: 500k requests per day - [view cost estimate](https://calculator.aws/#/estimate?id=3d9e8e2880884fddb7c29c85fe5d245e9ce14d25)

@@ -1,11 +1,11 @@
 # IoT Stream Processor
 
 ## Description
-This Quick Start describes the cost estimates for a service that ingests records from IoT Core and uses Kinesis Firehose to put them into a S3 data lake.
+This Quick Start describes the cost Load Scenarios for a service that ingests records from IoT Core and uses Kinesis Firehose to put them into a S3 data lake.
 
 ![alt text](https://github.com/dancfox/serverless-cost-companion/blob/main/iot-stream-processor/architecture.png "Architecture")
 
-## Estimates
+## Load Scenarios
 
   * High Load Scenario: 900k records per day - [view cost estimate](https://calculator.aws/#/estimate?id=4c8cdee32a03caacf6d534b73703a0696bf3108a)  
   * Medium Load Scenario: 500k records per day - [view cost estimate](https://calculator.aws/#/estimate?id=4c8cdee32a03caacf6d534b73703a0696bf3108a)

@@ -1,11 +1,11 @@
 # DynamoDB Stream Processor
 
 ## Description
-This Quick Start describes the cost estimates for a service that responds new records inserted into DynamoDB.
+This Quick Start describes the cost Load Scenarios for a service that responds new records inserted into DynamoDB.
 
 ![alt text](https://github.com/dancfox/serverless-cost-companion/blob/main/dynamodb-stream-processor/architecture.png "Architecture")
 
-## Estimates
+## Load Scenarios
 
   * High Load Scenario: 900k inserts per day - [view cost estimate](https://calculator.aws/#/estimate?id=c51a2e051aaf00db5d7c6d1d7902c6ff0b9dbfe1)  
   * Medium Load Scenario: 500k inserts per day - [view cost estimate](https://calculator.aws/#/estimate?id=c51a2e051aaf00db5d7c6d1d7902c6ff0b9dbfe1)

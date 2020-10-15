@@ -1,11 +1,11 @@
 # Web Backend
 
 ## Description
-This Quick Start describes the cost estimates for one of the canonical Serverless microservice patterns: the Web Backend. This service is composed of API Gateway, Lambda and DynamoDB.
+This Quick Start describes the cost Load Scenarios for one of the canonical Serverless microservice patterns: the Web Backend. This service is composed of API Gateway, Lambda and DynamoDB.
 
 ![alt text](https://github.com/dancfox/serverless-cost-companion/blob/main/web-backend/architecture.png "Web Backend Architecture")
 
-## Estimates
+## Load Scenarios
 
   * High Load Scenario: 900k requests per day - [view cost estimate](https://calculator.aws/#/estimate?id=f952ae55fe96a14619c303df101f43e4d736f473)  
   * Medium Load Scenario: 500k requests per day - [view cost estimate](https://calculator.aws/#/estimate?id=a1c42ffe7b182c3b8778efb52ead3053823db204)

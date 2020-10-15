@@ -1,11 +1,11 @@
 # Kinesis Stream Processor
 
 ## Description
-This Quick Start describes the cost estimates for a service that processes a Kinesis stream.
+This Quick Start describes the cost Load Scenarios for a service that processes a Kinesis stream.
 
 ![alt text](https://github.com/dancfox/serverless-cost-companion/blob/main/kinesis-stream-processor/kinesis.png "Kinesis Architecture")
 
-## Estimates
+## Load Scenarios
 
   * High Load Scenario: 900k records per day - [view cost estimate](https://calculator.aws/#/estimate?id=e244fd8e97828ec515909ad67abe0f5f20be2eaf)
   * Medium Load Scenario: 500k records per day - [view cost estimate](https://calculator.aws/#/estimate?id=e244fd8e97828ec515909ad67abe0f5f20be2eaf)
