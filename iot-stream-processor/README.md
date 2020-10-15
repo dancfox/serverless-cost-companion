@@ -1,10 +1,5 @@
 # IoT Stream Processor
 
-[View Estimate for Medium Load]()
-
-
-# DynamoDB Stream Processor
-
 ## Description
 This Quick Start describes the cost estimates for a service that ingests records from IoT Core and uses Kinesis Firehose to put them into a S3 data lake.
 
