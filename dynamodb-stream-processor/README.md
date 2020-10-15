@@ -1,9 +1,5 @@
 # DynamoDB Stream Processor
 
-[View Estimate for Medium Load]()
-
-# Web Backend
-
 ## Description
 This Quick Start describes the cost estimates for a service that responds new records inserted into DynamoDB.
 
